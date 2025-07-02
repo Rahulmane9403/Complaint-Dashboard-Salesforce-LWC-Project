@@ -23,8 +23,7 @@ A Lightning Web Component (LWC)-based Complaint Ticket Dashboard with update act
 - Fetch ticket transaction history
 
 ## 📸 Screenshots
-![Dashboard](screenshots/dashboard_view.png)
-![Update Modal](screenshots/update_modal.png)
+[Project Implementation (PDF)](./ComplaintDashboard.pdf)
 
 ## 💡 Technologies Used
 - Apex
